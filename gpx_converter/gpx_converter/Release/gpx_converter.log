@@ -1,0 +1,7 @@
+﻿  gpx_converter.cpp
+E:\GPSLogger\gpx_converter\gpx_converter\gpx_converter.cpp(28,10): warning C4101: 'wpt': variable local sin referencia
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  gpx_converter.vcxproj -> E:\GPSLogger\gpx_converter\gpx_converter\Release\gpx_converter.exe

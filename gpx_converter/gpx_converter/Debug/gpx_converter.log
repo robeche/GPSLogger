@@ -1,0 +1,3 @@
+﻿  gpx_converter.cpp
+E:\GPSLogger\gpx_converter\gpx_converter\gpx_converter.cpp(28,10): warning C4101: 'wpt': variable local sin referencia
+  gpx_converter.vcxproj -> E:\GPSLogger\gpx_converter\gpx_converter\Debug\gpx_converter.exe
